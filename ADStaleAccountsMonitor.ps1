@@ -1,6 +1,5 @@
 <#
 Author: Walter Muncaster
-Date: 2/1/2021
 Purpose: Check Workday users for ON LEAVE status and update status for corresponding user object in Active Directory. 
 Scan AD for users that have not signed in for 30+ days. If not On Leave, send warning email to users manager, Ent Apps, Security, IT.
 For users that have not signed in for 55 days, send offboarding email to stakeholders.
