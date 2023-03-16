@@ -1,8 +1,7 @@
 
 <#
 Author: 		Walter Muncaster
-Purpose: 		Set autologin items for login without credentials 
-				Optional immediate forced reboot
+Purpose: 		Set autologin items for login without credentials optional immediate forced reboot
 #>
 
 
